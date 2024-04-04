@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @noahnovak31
+- 👀 I’m interested in Python, HTML, CSS, JS
+- 🌱 I’m currently learning C, C++, Kotlin, C#
+- 😄 Pronouns: he/him/his
