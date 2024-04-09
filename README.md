@@ -1,3 +1,17 @@
-- 👋 Hi, I’m @noahnovak31
-- 👀 I’m interested in Python, HTML, CSS, JS
-- 🌱 I’m currently learning C, C++, Kotlin, C#
+# Noah Novak
+
+## 💬 Languages I work in  
+- Python
+- HTML and CSS
+- JS
+- C#
+
+## 🎓 I'm learning  
+- C++  
+- C  
+- Swift  
+- Kotlin  
+
+### 📷 Socials
+▶ [YouTube](https://youtube.com/@noahnovak31)
+🎵 [TikTok](https://tiktok.com/noahnovak31)
