@@ -14,4 +14,4 @@
 
 ### 📷 Socials
 ▶ [YouTube](https://youtube.com/@noahnovak31)  
-🎵 [TikTok](https://tiktok.com/noahnovak31)
+🎵 [TikTok](https://tiktok.com/@noahnovak31)
