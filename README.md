@@ -1,5 +1,5 @@
-# Noah Novak
-## noahnovak31
+# Noah Novak  
+noahnovak31
 
 ## 💬 Languages I work in  
 - Python
