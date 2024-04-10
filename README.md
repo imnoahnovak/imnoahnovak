@@ -4,13 +4,13 @@
 - Python
 - HTML and CSS
 - JS
-- C#
 
 ## 🎓 I'm learning  
 - C++  
 - C  
 - Swift  
-- Kotlin  
+- Kotlin
+- C#  
 
 ### 📷 Socials
 ▶ [YouTube](https://youtube.com/@noahnovak31)  
