@@ -2,10 +2,11 @@
 
 ## 💬 Languages I work in  
 - Python
-- HTML and CSS
-- JS
+- HTML
+- CSS  
+- JS  
 
-## 🎓 I'm learning  
+## 🎓 Languages I'm learning  
 - C++  
 - C  
 - Swift  
