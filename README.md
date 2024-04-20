@@ -2,18 +2,18 @@
 noahnovak31
 
 ## 💬 Languages I work in  
-- Python
-- HTML
-- CSS  
-- JS
-- Dart
-- Kotlin  
+- 🐍 Python
+- 🌐 HTML
+- 🖌 CSS  
+- 📜 JS
+- 🎯 Dart
+- 🤖 Kotlin  
 
 ## 🎓 Languages I'm learning  
-- C++  
-- C  
-- Swift  
-- C#  
+- ➕ C++  
+- 👁 C  
+- 🐦 Swift  
+- #️⃣ C#  
 
 ### 📷 Socials
 ▶ [YouTube](https://youtube.com/@noahnovak31)  
