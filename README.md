@@ -1,6 +1,7 @@
 # 🗣 Noah Novak   
 🐱 (known on GitHub as noahnovak31)  
 ⚠ Don't be creepy, or I'll block you!  
+📜 I use Visual Studio Code as my script editor.  
 
 ## 📷 Socials  
 ▶ [YouTube](https://youtube.com/@noahnovak31)  
