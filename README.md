@@ -1,7 +1,6 @@
 # 🗣 Noah Novak   
 🐱 (known on GitHub as noahnovak31)  
 ⚠ Don't be creepy, or I'll block you!  
-📜 I use Visual Studio Code as my script editor.  
 
 ## 📷 Socials  
 ▶ [YouTube](https://youtube.com/@noahnovak31)  
@@ -17,6 +16,7 @@
 - 🎧 I like rap, rock, metal, and some pop  
 - 🎮 PS5, Xbox One S, Nintendo Switch, New 2DS XL
 - 🧠 Autism & ADHD  
+- 📜 I use Visual Studio Code as my script editor.  
 
 ## 💬 Languages I work in  
 - 🐍 Python  
