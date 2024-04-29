@@ -2,7 +2,7 @@
 🐱 (known on GitHub as noahnovak31)  
 ⚠ Don't be creepy, or I'll block you!  
 
-### 📷 Socials  
+## 📷 Socials  
 ▶ [YouTube](https://youtube.com/@noahnovak31)  
 📷 [Instagram](https://instagram.com/noahrnovak)  
 
