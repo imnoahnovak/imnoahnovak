@@ -6,7 +6,7 @@
 ▶ [YouTube](https://youtube.com/@noahnovak31)  
 
 ## 💪 Projects in the works  
-- webbed (a cloud based os)  
+- None  
 
 # 💡 Facts about me  
 - 🛠 Developer since 2017  
