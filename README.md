@@ -4,6 +4,7 @@
 
 ## 📷 Socials  
 ▶ [YouTube](https://youtube.com/@noahnovak31)  
+📷 [Instagram](https://instagram.com/noahrnovak)
 
 ## 💪 Projects in the works  
 - None  
