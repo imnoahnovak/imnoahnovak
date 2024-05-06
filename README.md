@@ -1,5 +1,6 @@
 # 🗣 Noah Novak (@noahnovak31)  
-[![noahnovak31's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahnovak31&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   
+[![noahnovak31's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahnovak31&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahnovak31&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+   
 
 ## 📷 Socials  
 ▶ [YouTube](https://youtube.com/@noahnovak31)  
