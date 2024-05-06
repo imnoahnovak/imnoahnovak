@@ -1,4 +1,5 @@
 # 🗣 Noah Novak   
+[![noahnovak31's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahnovak31&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 🐱 (known on GitHub as noahnovak31)  
 ⚠ Don't be creepy, or I'll block you!  
 
