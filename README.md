@@ -1,8 +1,8 @@
 # 🗣 Noah Novak (@noahnovak31)  
-[![noahnovak31's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahnovak31&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahnovak31&show_icons=true&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![noahnovak31's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahnovak31&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahnovak31&show_icons=true&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 # I'm listening to...  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ctm5gjbetz65txcmoh6whfubgq&cover_image=true&theme=default&show_offline=true&background_color=212121&interchange=false&bar_color_cover=true&bar_color=484242)](https://spotify-github-profile.vercel.app/api/view?uid=31ctm5gjbetz65txcmoh6whfubgq&redirect=true)  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ctm5gjbetz65txcmoh6whfubgq&cover_image=true&theme=novatorem&show_offline=true&background_color=212121&interchange=false&bar_color_cover=true&bar_color=484242)](https://spotify-github-profile.vercel.app/api/view?uid=31ctm5gjbetz65txcmoh6whfubgq&redirect=true)  
    
 
 ## 📷 Socials  
