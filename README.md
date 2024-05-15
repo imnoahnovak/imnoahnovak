@@ -7,11 +7,6 @@
 
 # 🎵 I'm listening to...  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ctm5gjbetz65txcmoh6whfubgq&cover_image=true&theme=novatorem&show_offline=true&background_color=212121&interchange=false&bar_color_cover=true&bar_color=484242)](https://spotify-github-profile.vercel.app/api/view?uid=31ctm5gjbetz65txcmoh6whfubgq&redirect=true)  
-   
-
-## 📷 Socials  
-▶ [YouTube](https://youtube.com/@noahnovak31)  
-📷 [Instagram](https://instagram.com/noahrnovak)
 
 # 💡 Facts about me  
 - 🛠 Developer since 2017  
