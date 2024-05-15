@@ -21,7 +21,6 @@
 - 🐍 Python  
 - 🌐 HTML  
 - 🖌 CSS  
-- 📜 JS  
 
 ## 🎓 Languages I'm learning  
 - ➕ C++  
@@ -30,6 +29,7 @@
 - #️⃣ C#  
 - 🤖 Kotlin  
 - 🎯 Dart  
+- 📜 JavaScript  
 
 Feel free to check out my projects and let me know what needs to be fixed! 
 
