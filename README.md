@@ -10,7 +10,7 @@
 
 # 💡 Facts about me  
 - 🛠 Developer since 2017  
-- 🔢 15  
+- 🔢 16  
 - 💻 Interested in the programming field  
 - 🎧 I like rap, rock, metal, and some pop  
 - 🎮 PS5, Xbox One S, Nintendo Switch, New 2DS XL
