@@ -1,7 +1,7 @@
-# 🗣 Noah Novak [(noahnovak31)](https://github.com/noahnovak31/)  
+# 🗣 Noah [(kavonhaon)](https://github.com/kavonhaon/)  
 
-[![noahnovak31's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahnovak31&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noahnovak31&show_icons=true&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
+[![kavonhaon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kavonhaon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavonhaon&show_icons=true&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
 
 > *Remember to be you! Be unique!*  
 
