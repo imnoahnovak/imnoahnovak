@@ -1,4 +1,4 @@
-# 🗣 Noah [(noah-novak)](https://github.com/noah-novak/)  
+# 🗣 Noah Novak [(noah-novak)](https://github.com/noah-novak/)  
 
 [![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-novak&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noah-novak&show_icons=true&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
