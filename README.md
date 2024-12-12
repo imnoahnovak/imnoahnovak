@@ -6,13 +6,11 @@
 > *Remember to be you! Be unique!*  
 
 # 💡 Facts about me  
-- 🛠 Developer since 2017  
+- 🛠 Developer since 2018  
 - 🔢 16  
 - 💻 Interested in the programming field  
-- 🎧 I like pretty much any genre  
 - 🎮 PS5, Xbox One S, Nintendo Switch, New 2DS XL, Wii U  
 - 🧠 Autism & ADHD  
-- 📜 I use Visual Studio Code as my editor.  
 
 ## 💬 Languages I work in  
 - 🐍 Python  
