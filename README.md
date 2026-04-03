@@ -1,20 +1,15 @@
-# 🗣 Noah Novak [(imnoahnovak)](https://github.com/imnoahnovak/)  
+# 💁‍♂️ Noah Novak [(imnoahnovak)](https://github.com/imnoahnovak/)  
 
-[![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=imnoahnovak&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnoahnovak&show_icons=true&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
+Hello! I'm Noah, an upcoming CS college student! I have been interested in technology and coding for a very long time. I will be creating projects here and there during any free time and I would like any feedback if needed! Feel free to check out my projects!  
 
-## 💬 Languages I'm more effcient in  
+## 💬 Languages I'm somewhat effcient in  
 - 🐍 Python  
 - 🌐 HTML  
-- 🖌 CSS
-- 📜 JS  
+- 🖌 CSS  
+- 📜 JavaScript  
 
 ## 🎓 Languages I'm still learning  
 - ➕ C++  
 - 👁 C  
 - 🐦 Swift  
-- #️⃣ C#  
 - 🤖 Kotlin  
-- 🎯 Dart  
-
-Feel free to check out my projects and let me know what needs to be fixed! 
